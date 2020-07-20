@@ -1,1 +1,1 @@
-# IGHub
+# IGHub Internship 
