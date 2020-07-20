@@ -1,0 +1,89 @@
+body {
+  background-color: whitesmoke;
+}
+
+
+.icon{
+  font-size: 25px;
+}
+
+nav li{
+  padding: 0 10px;
+  list-style-type: none;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+  display: inline-flex;
+}
+
+.lists {
+  margin-left: 80px;
+}
+
+.lists li {
+  padding: 12px;
+  list-style-type: none;
+  border-bottom: 1px solid black;
+  width: 200px;
+}
+
+
+schedule {
+  font-size: 17px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+form {
+  text-align: center;
+  padding: 12px 12px 22px 18px;
+  border: 1px solid #E0E0E0;
+  border-radius: 5px;
+  color: #616161;
+  background-color: #FAFAFA;
+}
+
+
+.duk {
+  background-color: #EEEEEE;
+  border-radius: 5px;
+  padding: 15px 10px;
+  border: none;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.arrow {
+  cursor: pointer;
+  width: 76%;
+}
+
+
+.submit {
+  background-color: #1E73E8;
+  width: 80%;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+footer {
+  background: #1E73E8;
+  color:white;
+}
+
+footer .copy {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+p {
+  padding-bottom: 10px;
+}
